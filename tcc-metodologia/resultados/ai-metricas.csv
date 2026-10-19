@@ -1,0 +1,2 @@
+﻿Metodo;Repeticoes;ClassificacoesTotais;TreinamentoMs;ClassificacaoMs;CpuProcessoMs;WorkingSetAntesMB;WorkingSetDepoisMB;HeapGerenciadoAntesMB;HeapGerenciadoDepoisMB;AcertosUltimoLote;ErrosUltimoLote;AcuraciaUltimoLote;MensagensPorSegundo
+"Com IA local (Naive Bayes)";200;1000000;19.451;3202.029;3328.125;28.730;43.133;1.051;9.278;4784;216;95.68;312301.94
