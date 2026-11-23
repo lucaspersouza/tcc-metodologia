@@ -1,0 +1,28 @@
+C:\Users\USER\Downloads\tcc-metodologia\obj\Debug\net10.0\tcc-metodologia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\tcc-metodologia\obj\Debug\net10.0\tcc-metodologia.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\tcc-metodologia\obj\Debug\net10.0\tcc-metodologia.AssemblyInfo.cs
+C:\Users\USER\Downloads\tcc-metodologia\obj\Debug\net10.0\tcc-metodologia.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\tcc-metodologia\bin\Debug\net10.0\tcc-metodologia.exe
+C:\Users\USER\Downloads\tcc-metodologia\bin\Debug\net10.0\tcc-metodologia.deps.json
+C:\Users\USER\Downloads\tcc-metodologia\bin\Debug\net10.0\tcc-metodologia.runtimeconfig.json
+C:\Users\USER\Downloads\tcc-metodologia\bin\Debug\net10.0\tcc-metodologia.dll
+C:\Users\USER\Downloads\tcc-metodologia\bin\Debug\net10.0\tcc-metodologia.pdb
+C:\Users\USER\Downloads\tcc-metodologia\obj\Debug\net10.0\tcc-metodologia.dll
+C:\Users\USER\Downloads\tcc-metodologia\obj\Debug\net10.0\refint\tcc-metodologia.dll
+C:\Users\USER\Downloads\tcc-metodologia\obj\Debug\net10.0\tcc-metodologia.pdb
+C:\Users\USER\Downloads\tcc-metodologia\obj\Debug\net10.0\tcc-metodologia.genruntimeconfig.cache
+C:\Users\USER\Downloads\tcc-metodologia\obj\Debug\net10.0\ref\tcc-metodologia.dll
+C:\Users\Gustavo\Documents\PUC Minas\8º Período\TCC\tcc-metodologia\tcc-metodologia\bin\Debug\net10.0\tcc-metodologia.exe
+C:\Users\Gustavo\Documents\PUC Minas\8º Período\TCC\tcc-metodologia\tcc-metodologia\bin\Debug\net10.0\tcc-metodologia.deps.json
+C:\Users\Gustavo\Documents\PUC Minas\8º Período\TCC\tcc-metodologia\tcc-metodologia\bin\Debug\net10.0\tcc-metodologia.runtimeconfig.json
+C:\Users\Gustavo\Documents\PUC Minas\8º Período\TCC\tcc-metodologia\tcc-metodologia\bin\Debug\net10.0\tcc-metodologia.dll
+C:\Users\Gustavo\Documents\PUC Minas\8º Período\TCC\tcc-metodologia\tcc-metodologia\bin\Debug\net10.0\tcc-metodologia.pdb
+C:\Users\Gustavo\Documents\PUC Minas\8º Período\TCC\tcc-metodologia\tcc-metodologia\obj\Debug\net10.0\tcc-metodologia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\PUC Minas\8º Período\TCC\tcc-metodologia\tcc-metodologia\obj\Debug\net10.0\tcc-metodologia.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\PUC Minas\8º Período\TCC\tcc-metodologia\tcc-metodologia\obj\Debug\net10.0\tcc-metodologia.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\PUC Minas\8º Período\TCC\tcc-metodologia\tcc-metodologia\obj\Debug\net10.0\tcc-metodologia.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\PUC Minas\8º Período\TCC\tcc-metodologia\tcc-metodologia\obj\Debug\net10.0\tcc-metodologia.dll
+C:\Users\Gustavo\Documents\PUC Minas\8º Período\TCC\tcc-metodologia\tcc-metodologia\obj\Debug\net10.0\refint\tcc-metodologia.dll
+C:\Users\Gustavo\Documents\PUC Minas\8º Período\TCC\tcc-metodologia\tcc-metodologia\obj\Debug\net10.0\tcc-metodologia.pdb
+C:\Users\Gustavo\Documents\PUC Minas\8º Período\TCC\tcc-metodologia\tcc-metodologia\obj\Debug\net10.0\tcc-metodologia.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\PUC Minas\8º Período\TCC\tcc-metodologia\tcc-metodologia\obj\Debug\net10.0\ref\tcc-metodologia.dll

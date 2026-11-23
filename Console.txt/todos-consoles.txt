@@ -1,0 +1,174 @@
+﻿===== ai-r1-console.txt =====
+[2026-11-18T11:01:58.3157515-03:00] EXPERIMENTO_INICIO: Com IA local (Naive Bayes)
+Mensagens fict├¡cias: 6,000 | semente: 42 | repeti├º├Áes: 3000
+[2026-11-18T11:01:58.3357918-03:00] TREINAMENTO_INICIO: Naive Bayes com corpus sint├®tico
+[2026-11-18T11:01:58.3591815-03:00] TREINAMENTO_FIM: 23.232 ms
+[2026-11-18T11:01:58.3592076-03:00] CLASSIFICACAO_INICIO: Com IA local (Naive Bayes)
+[2026-11-18T11:02:49.0640020-03:00] CLASSIFICACAO_FIM: Com IA local (Naive Bayes)
+Acertos: 4,800 | erros: 1,200 | acur├ícia na base sint├®tica: 80.00%
+Tempo de classifica├º├úo: 50695.77 ms | CPU do processo: 50890.62 ms
+Vaz├úo: 355,059 classifica├º├Áes/s
+Relat├│rio por mensagem: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\ai-r1-mensagens.csv
+M├®tricas do processo: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\ai-r1-metricas.csv
+As m├®tricas de hardware devem ser gravadas separadamente no HWiNFO usando os marcadores de hor├írio acima.
+[2026-11-18T11:02:49.0831964-03:00] EXPERIMENTO_FIM: Com IA local (Naive Bayes)
+
+===== ai-r2-console.txt =====
+[2026-11-18T11:17:38.5355985-03:00] EXPERIMENTO_INICIO: Com IA local (Naive Bayes)
+Mensagens fict├¡cias: 6,000 | semente: 42 | repeti├º├Áes: 3000
+[2026-11-18T11:17:38.5551576-03:00] TREINAMENTO_INICIO: Naive Bayes com corpus sint├®tico
+[2026-11-18T11:17:38.5783442-03:00] TREINAMENTO_FIM: 23.029 ms
+[2026-11-18T11:17:38.5783696-03:00] CLASSIFICACAO_INICIO: Com IA local (Naive Bayes)
+[2026-11-18T11:18:28.9582163-03:00] CLASSIFICACAO_FIM: Com IA local (Naive Bayes)
+Acertos: 4,800 | erros: 1,200 | acur├ícia na base sint├®tica: 80.00%
+Tempo de classifica├º├úo: 50371.72 ms | CPU do processo: 50578.12 ms
+Vaz├úo: 357,343 classifica├º├Áes/s
+Relat├│rio por mensagem: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\ai-r2-mensagens.csv
+M├®tricas do processo: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\ai-r2-metricas.csv
+As m├®tricas de hardware devem ser gravadas separadamente no HWiNFO usando os marcadores de hor├írio acima.
+[2026-11-18T11:18:28.9763379-03:00] EXPERIMENTO_FIM: Com IA local (Naive Bayes)
+
+===== ai-r3-console.txt =====
+[2026-11-18T11:26:47.1997744-03:00] EXPERIMENTO_INICIO: Com IA local (Naive Bayes)
+Mensagens fict├¡cias: 6,000 | semente: 42 | repeti├º├Áes: 3000
+[2026-11-18T11:26:47.2194351-03:00] TREINAMENTO_INICIO: Naive Bayes com corpus sint├®tico
+[2026-11-18T11:26:47.2450793-03:00] TREINAMENTO_FIM: 25.499 ms
+[2026-11-18T11:26:47.2451023-03:00] CLASSIFICACAO_INICIO: Com IA local (Naive Bayes)
+[2026-11-18T11:27:38.8395443-03:00] CLASSIFICACAO_FIM: Com IA local (Naive Bayes)
+Acertos: 4,800 | erros: 1,200 | acur├ícia na base sint├®tica: 80.00%
+Tempo de classifica├º├úo: 51585.48 ms | CPU do processo: 51890.62 ms
+Vaz├úo: 348,935 classifica├º├Áes/s
+Relat├│rio por mensagem: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\ai-r3-mensagens.csv
+M├®tricas do processo: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\ai-r3-metricas.csv
+As m├®tricas de hardware devem ser gravadas separadamente no HWiNFO usando os marcadores de hor├írio acima.
+[2026-11-18T11:27:38.8586608-03:00] EXPERIMENTO_FIM: Com IA local (Naive Bayes)
+
+===== ai-r4-console.txt =====
+[2026-11-18T11:30:33.4608819-03:00] EXPERIMENTO_INICIO: Com IA local (Naive Bayes)
+Mensagens fict├¡cias: 6,000 | semente: 42 | repeti├º├Áes: 3000
+[2026-11-18T11:30:33.4799127-03:00] TREINAMENTO_INICIO: Naive Bayes com corpus sint├®tico
+[2026-11-18T11:30:33.5058670-03:00] TREINAMENTO_FIM: 25.753 ms
+[2026-11-18T11:30:33.5058939-03:00] CLASSIFICACAO_INICIO: Com IA local (Naive Bayes)
+[2026-11-18T11:31:24.4721601-03:00] CLASSIFICACAO_FIM: Com IA local (Naive Bayes)
+Acertos: 4,800 | erros: 1,200 | acur├ícia na base sint├®tica: 80.00%
+Tempo de classifica├º├úo: 50956.21 ms | CPU do processo: 51000.00 ms
+Vaz├úo: 353,245 classifica├º├Áes/s
+Relat├│rio por mensagem: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\ai-r4-mensagens.csv
+M├®tricas do processo: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\ai-r4-metricas.csv
+As m├®tricas de hardware devem ser gravadas separadamente no HWiNFO usando os marcadores de hor├írio acima.
+[2026-11-18T11:31:24.4905179-03:00] EXPERIMENTO_FIM: Com IA local (Naive Bayes)
+
+===== ai-r5-console.txt =====
+[2026-11-18T11:38:34.2901139-03:00] EXPERIMENTO_INICIO: Com IA local (Naive Bayes)
+Mensagens fict├¡cias: 6,000 | semente: 42 | repeti├º├Áes: 3000
+[2026-11-18T11:38:34.3091369-03:00] TREINAMENTO_INICIO: Naive Bayes com corpus sint├®tico
+[2026-11-18T11:38:34.3316348-03:00] TREINAMENTO_FIM: 22.356 ms
+[2026-11-18T11:38:34.3316575-03:00] CLASSIFICACAO_INICIO: Com IA local (Naive Bayes)
+[2026-11-18T11:39:26.2548398-03:00] CLASSIFICACAO_FIM: Com IA local (Naive Bayes)
+Acertos: 4,800 | erros: 1,200 | acur├ícia na base sint├®tica: 80.00%
+Tempo de classifica├º├úo: 51911.96 ms | CPU do processo: 52046.88 ms
+Vaz├úo: 346,741 classifica├º├Áes/s
+Relat├│rio por mensagem: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\ai-r5-mensagens.csv
+M├®tricas do processo: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\ai-r5-metricas.csv
+As m├®tricas de hardware devem ser gravadas separadamente no HWiNFO usando os marcadores de hor├írio acima.
+[2026-11-18T11:39:26.2758659-03:00] EXPERIMENTO_FIM: Com IA local (Naive Bayes)
+
+===== ai-r6-console.txt =====
+[2026-11-18T11:42:25.2212718-03:00] EXPERIMENTO_INICIO: Com IA local (Naive Bayes)
+Mensagens fict├¡cias: 6,000 | semente: 42 | repeti├º├Áes: 3000
+[2026-11-18T11:42:25.2403230-03:00] TREINAMENTO_INICIO: Naive Bayes com corpus sint├®tico
+[2026-11-18T11:42:25.2636243-03:00] TREINAMENTO_FIM: 23.147 ms
+[2026-11-18T11:42:25.2636478-03:00] CLASSIFICACAO_INICIO: Com IA local (Naive Bayes)
+[2026-11-18T11:43:17.0312009-03:00] CLASSIFICACAO_FIM: Com IA local (Naive Bayes)
+Acertos: 4,800 | erros: 1,200 | acur├ícia na base sint├®tica: 80.00%
+Tempo de classifica├º├úo: 51758.39 ms | CPU do processo: 51859.38 ms
+Vaz├úo: 347,770 classifica├º├Áes/s
+Relat├│rio por mensagem: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\ai-r6-mensagens.csv
+M├®tricas do processo: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\ai-r6-metricas.csv
+As m├®tricas de hardware devem ser gravadas separadamente no HWiNFO usando os marcadores de hor├írio acima.
+[2026-11-18T11:43:17.0500905-03:00] EXPERIMENTO_FIM: Com IA local (Naive Bayes)
+
+===== rules-r1-console.txt =====
+[2026-11-18T10:57:35.7742199-03:00] EXPERIMENTO_INICIO: Sem IA (regras, Regex pr├®-compilado)
+Mensagens fict├¡cias: 6,000 | semente: 42 | repeti├º├Áes: 3000
+Treinamento: n├úo aplic├ível ao classificador baseado em regras.
+[2026-11-18T10:57:35.8078472-03:00] CLASSIFICACAO_INICIO: Sem IA (regras, Regex pr├®-compilado)
+[2026-11-18T10:57:59.0009895-03:00] CLASSIFICACAO_FIM: Sem IA (regras, Regex pr├®-compilado)
+Acertos: 3,750 | erros: 2,250 | acur├ícia na base sint├®tica: 62.50%
+Tempo de classifica├º├úo: 23184.10 ms | CPU do processo: 23187.50 ms
+Vaz├úo: 776,394 classifica├º├Áes/s
+Relat├│rio por mensagem: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\rules-r1-mensagens.csv
+M├®tricas do processo: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\rules-r1-metricas.csv
+As m├®tricas de hardware devem ser gravadas separadamente no HWiNFO usando os marcadores de hor├írio acima.
+[2026-11-18T10:57:59.0209584-03:00] EXPERIMENTO_FIM: Sem IA (regras, Regex pr├®-compilado)
+
+===== rules-r2-console.txt =====
+[2026-11-18T11:20:27.5064553-03:00] EXPERIMENTO_INICIO: Sem IA (regras, Regex pr├®-compilado)
+Mensagens fict├¡cias: 6,000 | semente: 42 | repeti├º├Áes: 3000
+Treinamento: n├úo aplic├ível ao classificador baseado em regras.
+[2026-11-18T11:20:27.5391627-03:00] CLASSIFICACAO_INICIO: Sem IA (regras, Regex pr├®-compilado)
+[2026-11-18T11:20:50.2196225-03:00] CLASSIFICACAO_FIM: Sem IA (regras, Regex pr├®-compilado)
+Acertos: 3,750 | erros: 2,250 | acur├ícia na base sint├®tica: 62.50%
+Tempo de classifica├º├úo: 22671.48 ms | CPU do processo: 22765.62 ms
+Vaz├úo: 793,949 classifica├º├Áes/s
+Relat├│rio por mensagem: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\rules-r2-mensagens.csv
+M├®tricas do processo: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\rules-r2-metricas.csv
+As m├®tricas de hardware devem ser gravadas separadamente no HWiNFO usando os marcadores de hor├írio acima.
+[2026-11-18T11:20:50.2380696-03:00] EXPERIMENTO_FIM: Sem IA (regras, Regex pr├®-compilado)
+
+===== rules-r3-console.txt =====
+[2026-11-18T11:24:16.9780092-03:00] EXPERIMENTO_INICIO: Sem IA (regras, Regex pr├®-compilado)
+Mensagens fict├¡cias: 6,000 | semente: 42 | repeti├º├Áes: 3000
+Treinamento: n├úo aplic├ível ao classificador baseado em regras.
+[2026-11-18T11:24:17.0108855-03:00] CLASSIFICACAO_INICIO: Sem IA (regras, Regex pr├®-compilado)
+[2026-11-18T11:24:39.5360558-03:00] CLASSIFICACAO_FIM: Sem IA (regras, Regex pr├®-compilado)
+Acertos: 3,750 | erros: 2,250 | acur├ícia na base sint├®tica: 62.50%
+Tempo de classifica├º├úo: 22515.76 ms | CPU do processo: 22609.38 ms
+Vaz├úo: 799,440 classifica├º├Áes/s
+Relat├│rio por mensagem: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\rules-r3-mensagens.csv
+M├®tricas do processo: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\rules-r3-metricas.csv
+As m├®tricas de hardware devem ser gravadas separadamente no HWiNFO usando os marcadores de hor├írio acima.
+[2026-11-18T11:24:39.5537048-03:00] EXPERIMENTO_FIM: Sem IA (regras, Regex pr├®-compilado)
+
+===== rules-r4-console.txt =====
+[2026-11-18T11:33:37.5308641-03:00] EXPERIMENTO_INICIO: Sem IA (regras, Regex pr├®-compilado)
+Mensagens fict├¡cias: 6,000 | semente: 42 | repeti├º├Áes: 3000
+Treinamento: n├úo aplic├ível ao classificador baseado em regras.
+[2026-11-18T11:33:37.5647144-03:00] CLASSIFICACAO_INICIO: Sem IA (regras, Regex pr├®-compilado)
+[2026-11-18T11:34:00.1094589-03:00] CLASSIFICACAO_FIM: Sem IA (regras, Regex pr├®-compilado)
+Acertos: 3,750 | erros: 2,250 | acur├ícia na base sint├®tica: 62.50%
+Tempo de classifica├º├úo: 22536.55 ms | CPU do processo: 22578.12 ms
+Vaz├úo: 798,703 classifica├º├Áes/s
+Relat├│rio por mensagem: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\rules-r4-mensagens.csv
+M├®tricas do processo: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\rules-r4-metricas.csv
+As m├®tricas de hardware devem ser gravadas separadamente no HWiNFO usando os marcadores de hor├írio acima.
+[2026-11-18T11:34:00.1290922-03:00] EXPERIMENTO_FIM: Sem IA (regras, Regex pr├®-compilado)
+
+===== rules-r5-console.txt =====
+[2026-11-18T11:36:15.6457703-03:00] EXPERIMENTO_INICIO: Sem IA (regras, Regex pr├®-compilado)
+Mensagens fict├¡cias: 6,000 | semente: 42 | repeti├º├Áes: 3000
+Treinamento: n├úo aplic├ível ao classificador baseado em regras.
+[2026-11-18T11:36:15.6784012-03:00] CLASSIFICACAO_INICIO: Sem IA (regras, Regex pr├®-compilado)
+[2026-11-18T11:36:38.0093461-03:00] CLASSIFICACAO_FIM: Sem IA (regras, Regex pr├®-compilado)
+Acertos: 3,750 | erros: 2,250 | acur├ícia na base sint├®tica: 62.50%
+Tempo de classifica├º├úo: 22321.47 ms | CPU do processo: 22328.12 ms
+Vaz├úo: 806,399 classifica├º├Áes/s
+Relat├│rio por mensagem: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\rules-r5-mensagens.csv
+M├®tricas do processo: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\rules-r5-metricas.csv
+As m├®tricas de hardware devem ser gravadas separadamente no HWiNFO usando os marcadores de hor├írio acima.
+[2026-11-18T11:36:38.0301729-03:00] EXPERIMENTO_FIM: Sem IA (regras, Regex pr├®-compilado)
+
+===== rules-r6-console.txt =====
+[2026-11-18T11:45:39.6112355-03:00] EXPERIMENTO_INICIO: Sem IA (regras, Regex pr├®-compilado)
+Mensagens fict├¡cias: 6,000 | semente: 42 | repeti├º├Áes: 3000
+Treinamento: n├úo aplic├ível ao classificador baseado em regras.
+[2026-11-18T11:45:39.6455997-03:00] CLASSIFICACAO_INICIO: Sem IA (regras, Regex pr├®-compilado)
+[2026-11-18T11:46:02.2070932-03:00] CLASSIFICACAO_FIM: Sem IA (regras, Regex pr├®-compilado)
+Acertos: 3,750 | erros: 2,250 | acur├ícia na base sint├®tica: 62.50%
+Tempo de classifica├º├úo: 22553.16 ms | CPU do processo: 22593.75 ms
+Vaz├úo: 798,114 classifica├º├Áes/s
+Relat├│rio por mensagem: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\rules-r6-mensagens.csv
+M├®tricas do processo: C:\Users\Gustavo\Documents\PUC Minas\8┬║ Per├¡odo\TCC\tcc-metodologia\Sistema_TCC\resultados\rules-r6-metricas.csv
+As m├®tricas de hardware devem ser gravadas separadamente no HWiNFO usando os marcadores de hor├írio acima.
+[2026-11-18T11:46:02.2255185-03:00] EXPERIMENTO_FIM: Sem IA (regras, Regex pr├®-compilado)
+

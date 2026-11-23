@@ -1,0 +1,2 @@
+﻿Metodo;Repeticoes;ClassificacoesTotais;TreinamentoMs;ClassificacaoMs;CpuProcessoMs;WorkingSetAntesMB;WorkingSetDepoisMB;HeapGerenciadoAntesMB;HeapGerenciadoDepoisMB;AcertosUltimoLote;ErrosUltimoLote;AcuraciaUltimoLote;MensagensPorSegundo
+"Sem IA (regras, Regex pré-compilado)";3000;18000000;0.000;23184.095;23187.500;26.328;37.633;1.408;1.698;3750;2250;62.50;776394.32

@@ -1,0 +1,13 @@
+﻿Arquivo;Metodo;Repeticoes;ClassificacoesTotais;TreinamentoMs;ClassificacaoMs;CpuProcessoMs;WorkingSetAntesMB;WorkingSetDepoisMB;HeapGerenciadoAntesMB;HeapGerenciadoDepoisMB;AcertosUltimoLote;ErrosUltimoLote;AcuraciaUltimoLote;MensagensPorSegundo
+ai-r1-metricas.csv;Com IA local (Naive Bayes);3000;18000000;23.232;50.695.775;50.890.625;26.992;31.934;1.728;2.775;4800;1200;80.00;355059.18
+ai-r2-metricas.csv;Com IA local (Naive Bayes);3000;18000000;23.029;50.371.721;50.578.125;26.883;31.922;1.728;2.728;4800;1200;80.00;357343.36
+ai-r3-metricas.csv;Com IA local (Naive Bayes);3000;18000000;25.499;51.585.476;51.890.625;26.891;31.828;1.728;2.705;4800;1200;80.00;348935.43
+ai-r4-metricas.csv;Com IA local (Naive Bayes);3000;18000000;25.753;50.956.206;51.000.000;27.008;31.918;1.728;1.920;4800;1200;80.00;353244.51
+ai-r5-metricas.csv;Com IA local (Naive Bayes);3000;18000000;22.356;51.911.955;52.046.875;26.949;31.820;1.728;2.573;4800;1200;80.00;346740.94
+ai-r6-metricas.csv;Com IA local (Naive Bayes);3000;18000000;23.147;51.758.394;51.859.375;27.008;31.938;1.728;1.953;4800;1200;80.00;347769.68
+rules-r1-metricas.csv;Sem IA (regras, Regex pré-compilado);3000;18000000;0.000;23.184.095;23.187.500;26.328;37.633;1.408;1.698;3750;2250;62.50;776394.32
+rules-r2-metricas.csv;Sem IA (regras, Regex pré-compilado);3000;18000000;0.000;22.671.480;22.765.625;26.285;37.645;1.408;1.108;3750;2250;62.50;793949.05
+rules-r3-metricas.csv;Sem IA (regras, Regex pré-compilado);3000;18000000;0.000;22.515.757;22.609.375;26.430;37.879;1.408;1.290;3750;2250;62.50;799440.15
+rules-r4-metricas.csv;Sem IA (regras, Regex pré-compilado);3000;18000000;0.000;22.536.546;22.578.125;26.340;37.270;1.408;3.439;3750;2250;62.50;798702.69
+rules-r5-metricas.csv;Sem IA (regras, Regex pré-compilado);3000;18000000;0.000;22.321.466;22.328.125;26.348;37.852;1.408;2.606;3750;2250;62.50;806398.64
+rules-r6-metricas.csv;Sem IA (regras, Regex pré-compilado);3000;18000000;0.000;22.553.162;22.593.750;26.309;37.750;1.408;4.112;3750;2250;62.50;798114.26
